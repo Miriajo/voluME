@@ -25,7 +25,7 @@ La pantalla principal se divide en dos partes: Próximos Eventos y Eventos Disfr
 
 De esta manera no tenemos toda la información a la vista, ya que los eventos pasados ya están cerrados y se verán sólo para recordar o escuchar de nuevo la playlist elegida.
 
-- **Próximos Eventos:** Está divida en secciones por ESTACIÓN (Primavera, Verano, Otoño, Invierno) siempre y cuando halla eventos para esas estaciones. Consta de una imagen grande con el evento más próximo y debajo habrá más eventos con un scroll horizontal.
+- **Próximos Eventos:** Está divida en secciones por ESTACIÓN (Primavera, Verano, Otoño, Invierno) siempre y cuando haya eventos para esas estaciones. Consta de una imagen grande con el evento más próximo y debajo habrá más eventos con un scroll horizontal.
 - **Eventos Disfrutados:** Está divida en secciones por AÑO. Aparecerán sólo los eventos ya pasados. Se compone de elementos del mismo tamaño y hay una botón para ir mostrando más mediante scroll horizontal.
 
 #### Invitados
