@@ -34,8 +34,7 @@ Contiene una cuadrícula compuesta por 3 columnas y N filas (scroll vertical) co
 
 Si pinchamos en el menú de abajo en Eventos volveremos a la pantalla principal donde la hayamos dejado (Próximos o Disfrutados).
 
-
-#### Detalle Evento Próximo
+#### Detalle Evento Próximo
 
 Se compone de:
 - Un elemento con la fotografía del Evento y su información.
